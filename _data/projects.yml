@@ -6,4 +6,4 @@
   role: Founder & Primary Developer
   duration: 2016
   url: "https://t.me/ydlbot"
-  description: "Telegram YouTube downloader and convertor bot. It was built with PHP and some complementary programs such as FFmpeg for conversion, youtube-dl, aria2 and redis for queue system. This bot programmed to have lots of feature such as : 	<ul class="resume-item-list"><li>Downloaded lists</li><li>Adding counter to file</li><li>Lots of formats with different sizes to download for one video</li><li>...</li></ul>. It reached top 10 bots in Telegram once, you can google it."
+  description: "Telegram YouTube downloader and convertor bot. It was built with PHP and some complementary programs such as FFmpeg for conversion, youtube-dl, aria2 and redis for queue system. This bot programmed to have lots of feature such as : 	<ul class='resume-item-list'><li>Downloaded lists</li><li>Adding counter to file</li><li>Lots of formats with different sizes to download for one video</li><li>...</li></ul>. It reached top 10 bots in Telegram once, you can google it."
