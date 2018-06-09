@@ -1,6 +1,6 @@
 # Site settings
 title:        "Alireza Mirsepassi"
-description:  "Alireza Mirsepassi's personal CV page."
+description:  "This is Alireza Mirsepassi's personal CV page."
 
 # Build settings
 markdown: kramdown
@@ -16,7 +16,7 @@ resume_contact_email:           "lord@alireza.rocks"
 resume_contact_telephone:       "+989106622764"
 resume_contact_address:         "Tehran, Iran"
 resume_header_contact_info:     "Tehran, Iran | +989106622764 | lord@alireza.rocks"
-resume_header_intro:            "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_header_intro:            "<p>My name is Alireza Mirsepassi. I was born in Iran and since then I have lived in Iran. I am sort of young developers whose goal is to learn more and more about the new things. The more I work in this field, the more I feel I must work harder to gain exprience.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
