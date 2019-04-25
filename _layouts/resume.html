@@ -95,6 +95,29 @@
       {% endif %}
 
 
+      {% if site.resume_section_certificates %}
+      <!-- begin Education -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Certificates</h2>
+        </header>
+
+        {% for certificate in site.data.certificates %}
+        <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name">{{ certificate.course }}</h3>
+          <h4 class="resume-item-details group" itemprop="description">{{ certificate.institute }} &bull; {{ certificate.year }}</h4>
+          <div class="resume-item-image" itemprop="image">
+            <a href="{{ certificate.link }}">
+              <img class="certificate-image" src="{{ certificate.image }}" alt="{{ certificate.course }}">
+            </a>
+          </div>
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Education -->
+      {% endif %}
+
+
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
       <section class="content-section">
