@@ -8,6 +8,12 @@
   url: "https://escapehome.ir"
   description: "Booking website, designed with mdb and laravel."
 
+- project: Ashti Ba Shahr
+  role: Web Developer
+  duration: 2019
+  url: "http://ashti-ba-shahr.com/"
+  description: "News website"
+
 # donutfinder.io
 - project: YDLBOT
   role: Founder & Primary Developer

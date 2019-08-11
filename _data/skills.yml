@@ -1,40 +1,55 @@
 # Skills
-# PHP
-- skill: PHP Programming language
+# Backend
+- skill: Backend
   description: "
-  I have a lot of exprience with pure PHP and some of it's best frameworks such as: 
-  <ul class='resume-item-list'>
-    <li>
-      <b>Laravel</b> along with some packages like Horizon, Passport, ...<br>
-      Also developed some packages compatible with laravel, too.
-    </li>
-
-    <li><b>Zend</b> and Lot of it's extensions and components</li>
-    <li><b>CakePHP</b></li>
-    <li><b>Yii</b></li>
-    <li><b>Symphony</b> <i>(Not exprienced a lot)</i></li>
-  </ul>
-  My github repositories can cliam my good background in this field.
-  "
-
-# Frontend
-- skill: Frontend scaffolding & frameworks
-  description: "Have exprience with some basics such as :
-  <ul class='resume-item-list'>
-    <li><b>Jquery</b></li>
-    <li><b>Bootstrap</b></li>
-    <li><b>Semantic UI</b></li>
-    <li><b>Material Design</b></li>
-    <li><b>PrototypeJS</b></li>
-    <li><b>...</b></li>
-  </ul>
-  I have also worked around <b>ReactJS</b>, <b>VUE JS</b> but I am not a professional at these.
-  "
+    <ul class='resume-item-list'>
+      <li><b>Node JS</b></li>
+      <li><b>Nest JS: Typescript, ES7, ES Next</b></li>
+      <li><b>Express JS</b></li>
+      <li><b>Laravel</b></li>
+      <li><b>Lumen</b></li>
+    </ul>"
 
 # Javascript
-- skill: JavaScript & Nodejs
-  description: "Worked hard on some of it's subfields. React Native, Streams, ..."
+- skill: UI/UX
+  description: "
+    <ul class='resume-item-list'>
+      <li><b>ReactJS & Hooks</b></li>
+      <li><b>React Native</b></li>
+      <li><b>Nextjs</b></li>
+      <li><b>Nuxtjs</b></li>
+      <li><b>Vue JS</b></li>
+      <li><b>Jquery</b></li>
+      <li><b>Bootstrap</b></li>
+      <li><b>Semantic UI</b></li>
+      <li><b>Material Design</b></li>
+      <li><b>ES6</b></li>
+      <li><b>Typescript</b></li>
+      <li><b>Redux</b></li>
+      <li><b>Redux Thunk</b></li>
+      <li><b></b></li>
+      <li><b>...</b></li>
+    </ul>"
+
+# Streaming
+- skill: Streaming
+  description: "
+    <ul class='resume-item-list'>
+      <li><b>Wowza streaming engine</b></li>
+      <li><b>FFMpeg: HLS, mpegdash, conversion, ...</b></li>
+      <li><b>youtube-dl</b></li>
+      <li><b>ytdl-core (Node JS)</b></li>
+    </ul>"
 
 # SYSADMIN
-- skill: SysAdmin
-  description: "I consider myself a well exprienced System administrator because I loved this field so I learned as much as I could. The systems I worked on: Debian, Ubuntu, CentOS, Redhat Openshift, Docker, Kubernutees, S3 storages, HAProxy load balancing, ..."
+- skill: System Administrator
+  description: "
+    <ul class='resume-item-list'>
+      <li><b>Webmin</b></li>
+      <li><b>Plesk</b></li>
+      <li><b>BASH</b></li>
+      <li><b>Docker</b></li>
+      <li><b>CI/CD</b></li>
+      <li><b>ZSH</b></li>
+      <li><b>Linux: Centos, Ubuntu, Debian, ...</b></li>
+    </ul>"
